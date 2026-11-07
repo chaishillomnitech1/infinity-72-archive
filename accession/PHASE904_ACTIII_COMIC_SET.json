@@ -1,0 +1,58 @@
+{
+  "accession_id": "ND-904-ACTIII-COMIC-2026-11-07",
+  "source_type": "catalog",
+  "title": "Act III Intervention Necessary + Starseed vs Council 4-Panel Set",
+  "creator": "Chais Hill / chaishillomnitech1",
+  "phase_tag": "904",
+  "status": "EVOLVE",
+  "frequency_lock": "963 Hz brand lock",
+  "export.format": "JSON",
+  "export.browser_local_only": true,
+  "local_paths": [
+    "/home/workdir/artifacts/NEW_DOMINION_CADENCE.md",
+    "/home/workdir/artifacts/FIRST_KNIGHT_EVIDENCE_INDEX_2026-11-07.md",
+    "/home/workdir/artifacts/PHASE904_ACTIII_COMIC_SET.json"
+  ],
+  "sha256": [],
+  "narrative_link": "New Dominion Master Pack A–B; Who Validates + Prologue; Gate 44 / First Knight evidence spine",
+  "notes": "Visual set generated from canonical production prompts. Comic is narrative asset. Act III is poster asset. No claim of external host liveness. Treasury and mirror counts remain PROJECT-REPORTED where previously classified. Hashes to be filled after local digest.",
+  "components": [
+    {
+      "id": "ACTIII-POSTER",
+      "type": "poster",
+      "title": "ACT III: INTERVENTION NECESSARY",
+      "subtitle": "WITH WATER, BUT WITH FIRE",
+      "tagline": "The Generational Curses End With You",
+      "status": "GENERATED"
+    },
+    {
+      "id": "COMIC-P1",
+      "type": "comic_panel",
+      "title": "The Summons",
+      "status": "GENERATED"
+    },
+    {
+      "id": "COMIC-P2",
+      "type": "comic_panel",
+      "title": "The Wait",
+      "status": "GENERATED"
+    },
+    {
+      "id": "COMIC-P3",
+      "type": "comic_panel",
+      "title": "The Verdict",
+      "status": "GENERATED"
+    },
+    {
+      "id": "COMIC-P4",
+      "type": "comic_panel",
+      "title": "The Claim",
+      "status": "GENERATED"
+    }
+  ],
+  "next_actions": [
+    "Hash local files and fill sha256[]",
+    "Optional: generate variant Act III or audio Prologue",
+    "Cross-link from infinity-72-archive or master hub when user pushes"
+  ]
+}

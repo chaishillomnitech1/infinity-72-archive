@@ -1,0 +1,61 @@
+{
+  "accession_id": "ND-904-GATE44-OMNI-INTEGRATION-2026-11-07",
+  "source_type": "repo",
+  "title": "Gate 44:Omni Full Integration Record — Sovereign 9 Resonance (Post-Seal Update)",
+  "creator": "Chais Hill / chaishillomnitech1",
+  "phase_tag": "904",
+  "status": "EVOLVE",
+  "frequency_lock": "963 Hz brand lock (999 Hz campaign language only — intention broadcast & completion motif)",
+  "export.format": "JSON",
+  "export.browser_local_only": true,
+  "notes": "Updated first-party integration as of 7 November 2026. Durable source is GitHub. Manus host returns 404 (billing-gated / offline — not claimed live). DeepSeek share fetch blocked. Google AI-mode share did not resolve cleanly. No claim of live mint, autonomous flood, treasury, on-chain ledger, or NBA affiliation. Sovereign 9 remains creative spiritual twin / metadata narrative only.",
+  "sources": [
+    {
+      "source_type": "repo",
+      "title": "chaishillomnitech1 GitHub — durable first-party archive",
+      "url": "https://github.com/chaishillomnitech1",
+      "status": "READY_FOR_ATLAS",
+      "role": "living ledger under user control",
+      "local_paths": ["docs/new-dominion/gate44-omni-integration.json", "docs/sovereign9/Sovereign9_SummerLeague_Resonance_Archive.md"],
+      "notes": "Commit 2223daf sealed the Summer League Resonance Archive (Wizards 92–88 Jazz, AJ Dybantsa 27 pts). Gate 44:Omni Phase 904 record present."
+    },
+    {
+      "source_type": "catalog",
+      "title": "ScrollVerse Trinity / Manus portal",
+      "url": "https://scrollport-xkjtdnvi.manus.space/",
+      "status": "RECOVER",
+      "role": "third-party host — currently 404",
+      "observed_claims_to_keep": [
+        "Owner-authored, source-led",
+        "Sovereignty 9 labeled testnet-path / narrative collection only",
+        "No NBA, Knicks, Brunson, or Summer League affiliation claimed as operational"
+      ],
+      "notes": "Page not found on 7 Nov 2026. Do not claim live. Defer until user-controlled host is confirmed."
+    },
+    {
+      "source_type": "media",
+      "title": "DeepSeek share",
+      "url": "https://chat.deepseek.com/share/vpip6k8oxjli0krfk1",
+      "status": "RECOVER",
+      "notes": "Fetch blocked. Owner paste or local export required before EVOLVE. Do not invent content."
+    },
+    {
+      "source_type": "media",
+      "title": "Google AI-mode share",
+      "url": "https://share.google/aimode/ZAHMNVZObPEiMkKqt",
+      "status": "RECOVER",
+      "notes": "Did not resolve to usable content. Treat as non-durable. Prefer first-party GitHub paste."
+    }
+  ],
+  "narrative_link": "Sovereign 9 Summer League Resonance Archive (sealed 22 Oct 2026). Tip-off historical anchor: 9 July 2026, Utah Jazz 88 – Washington Wizards 92, Thomas & Mack Center. AJ Dybantsa 27 pts / 7 reb. Spiritual twin framing only — metadata legacy, not verified production asset.",
+  "local_paths": [
+    "/workspace/artifacts/gate44-omni-integration-2026-11-07.json"
+  ],
+  "sha256": [],
+  "next_actions": [
+    "Pull any missing local artifacts and hash them (RECOVER).",
+    "Attach narrative thread to New Dominion Phase 904 accession desk when ready (EVOLVE).",
+    "Export remains browser-local JSON only. No external publish from this desk.",
+    "GitHub remains the durable, user-controlled source of record."
+  ]
+}
